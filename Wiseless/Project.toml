@@ -1,0 +1,13 @@
+name = "Wiseless"
+uuid = "02a3856e-215a-4e21-865b-2e007d380ed5"
+authors = ["hattoemi <a7b8i06c49@outlook.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
